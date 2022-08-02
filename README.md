@@ -10,11 +10,11 @@
 
 ### App Deployed to Heroku
 
-https://budget-tracker-pwa-app.herokuapp.com/
+https:/om/
 
 ### App Demo
 
-![](images/budget-tracker.gif)
+![](if)
 
 ### Application Functionalities
 
