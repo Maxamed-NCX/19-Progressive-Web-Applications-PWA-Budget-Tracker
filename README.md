@@ -6,7 +6,7 @@
 
 ### App Screenshot
 
-![](images/budget-tracker.png)
+![](ima)
 
 ### App Deployed to Heroku
 
