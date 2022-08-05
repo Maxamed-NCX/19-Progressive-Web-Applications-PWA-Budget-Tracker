@@ -82,16 +82,18 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 
 ## Tools 
-- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+- [IndexDB]([https://www.mongodb.com/cloud/atlas](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API))
 - [Heroku](https://www.heroku.com)
 - [NPM Bcrypt Package](https://www.npmjs.com/package/bcrypt)
 - [NPM Express.js Package](https://www.npmjs.com/package/express)
 - [NPM JSONWebToken](https://www.npmjs.com/package/jsonwebtoken)
 - [NPM Mongoose Package](https://www.npmjs.com/package/mongoose)
+- [Morgan](https://www.npmjs.com/package/morgan)
 - [Node.js](https://nodejs.org/en/)
 - [NPM nodemon Package](https://www.npmjs.com/package/nodemon)
 - [NPM JWT-Decode Package](https://www.npmjs.com/package/jwt-decode)
 
+  
 # Questions?
 ## Please contact me:
   * [My GitHub Profile](https://github.com/Mcnoor/)
