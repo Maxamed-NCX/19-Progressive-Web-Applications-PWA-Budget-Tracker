@@ -7,25 +7,19 @@
 
 # Table of Contents 
 * [Summary](#description)
-* [Tools Used](#Tools)
-* [Installation & Database SetUp](#Installation)
-* [Heroku](#Heroku)
+* [Tools Used](#tools)
+* [Installation](#installation)
+* [Heroku](#heroku)
 * [Snapshot](#snapshot)
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
 
-#Snapshot
-
-![](ima)
 
 ## Heroku
 - [Heroku Deployment](https://budget-mcx.herokuapp.com/)
 
-### App Demo
-
-![](if)
 
 ### Application Functionalities
 
@@ -55,7 +49,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 <img width="600" alt=" Main Page" src="https://raw.githubusercontent.com/Mcnoor/Challenge-Module19-BC/main/budget.png">
 
 
-# Installation & Database SetUp
+# Installation
 * To use this app npm init has to be called to create your package.json file.
 * The following necessary Npm dependencies must be installed to run the application properly: the needed dependencies will be found on the package.json file.
 * To properly install the database you must create at cluster on Mongodb atlas.
@@ -85,7 +79,7 @@ Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 
-## Technologies Utilized
+## Tools 
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 - [Heroku](https://www.heroku.com)
 - [NPM Bcrypt Package](https://www.npmjs.com/package/bcrypt)
