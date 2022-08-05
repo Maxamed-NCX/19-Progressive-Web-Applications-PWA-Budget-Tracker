@@ -82,7 +82,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 
 ## Tools 
-- [IndexDB]([https://www.mongodb.com/cloud/atlas](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API))
+- [IndexDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 - [Heroku](https://www.heroku.com)
 - [NPM Bcrypt Package](https://www.npmjs.com/package/bcrypt)
 - [NPM Express.js Package](https://www.npmjs.com/package/express)
