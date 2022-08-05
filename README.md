@@ -4,13 +4,24 @@
 
 *Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important. Having offline functionality is paramount to the success of an application that handles users’ financial information*
 
-### App Screenshot
+
+# Table of Contents 
+* [Summary](#description)
+* [Tools Used](#Tools)
+* [Installation & Database SetUp](#Installation)
+* [Heroku](#Heroku)
+* [Snapshot](#snapshot)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
+#Snapshot
 
 ![](ima)
 
-### App Deployed to Heroku
-
-https:/om/
+## Heroku
+- [Heroku Deployment](https://budget-mcx.herokuapp.com/)
 
 ### App Demo
 
@@ -18,9 +29,9 @@ https:/om/
 
 ### Application Functionalities
 
-- The ability to enter deposits offline.
-- The ability to enter expenses offline.
-- Offline entries should be added to the tracker when the application is brought back online
+- The ability to enter deposits funds offline.
+- The ability to enter expenses costs offline.
+- Offline entries should be added to the tracker after the application is brought back online
 
 ### User Story
 
@@ -39,3 +50,54 @@ THEN they will receive a notification that they have added an expense or deposit
 WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 ```
+# Snapshot
+
+<img width="600" alt=" Main Page" src="https://raw.githubusercontent.com/Mcnoor/Challenge-Module19-BC/main/budget.png">
+
+
+# Installation & Database SetUp
+* To use this app npm init has to be called to create your package.json file.
+* The following necessary Npm dependencies must be installed to run the application properly: the needed dependencies will be found on the package.json file.
+* To properly install the database you must create at cluster on Mongodb atlas.
+* Run "npm start" for the port to start listening with mongoose.
+* This app is deployed on Heroku
+
+
+# License
+![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
+
+# Contributing
+Contributors: UofM BC & MCX
+
+# Tests
+The project directory, you can run:
+
+npm start
+Runs the app in the development mode.
+Open http://localhost:3002 to view it in the browser.
+npm start on local machince
+
+The page will reload if you make edits.
+You will also see any errors in the console.
+
+npm run build
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+
+## Technologies Utilized
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+- [Heroku](https://www.heroku.com)
+- [NPM Bcrypt Package](https://www.npmjs.com/package/bcrypt)
+- [NPM Express.js Package](https://www.npmjs.com/package/express)
+- [NPM JSONWebToken](https://www.npmjs.com/package/jsonwebtoken)
+- [NPM Mongoose Package](https://www.npmjs.com/package/mongoose)
+- [Node.js](https://nodejs.org/en/)
+- [NPM nodemon Package](https://www.npmjs.com/package/nodemon)
+- [NPM JWT-Decode Package](https://www.npmjs.com/package/jwt-decode)
+
+# Questions?
+## Please contact me:
+  * [My GitHub Profile](https://github.com/Mcnoor/)
+  * [My Github Project Repository](https://github.com/Mcnoor/Challenge-Module19-BC)
+  * Email us at: [maxanoor](mailto:maxanoor@gmail.com.com) with questions or make an issue about this project.
