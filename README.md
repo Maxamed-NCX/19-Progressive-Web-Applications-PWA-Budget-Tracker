@@ -1,5 +1,7 @@
 # Progressive Web Applications (PWA): Budget Tracker
-## Challenge-Module-19-BC
+
+## UofM BootCamp: Application 19
+BootCamp Object Oriented Programming Challenge Team Profile Generator
 
 
 ### Description
